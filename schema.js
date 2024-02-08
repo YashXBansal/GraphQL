@@ -1,4 +1,4 @@
-export const typedefs = `#graphql
+export const typeDefs = `#graphql
     type Game{
         id: ID!
         title: String!
